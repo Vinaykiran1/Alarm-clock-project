@@ -1,5 +1,4 @@
-🪧 Demo :- https://akshay0326.github.io/Alarm-Clock/
-
+🪧 Demo : https://a4198ee4-839c-4c87-b899-0fd243cc8a67-00-2eqd3mzyztwzo.sisko.replit.dev/
 ---
 
 About the Project :-
@@ -26,21 +25,6 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 
 ---
 
-💻 Screenshots :-
-
-🔴 Landing Page:-
-
-![image](https://user-images.githubusercontent.com/62291769/199785631-1233a11d-f8a7-4d6f-8492-dac15ccec554.png)
-
-🔴 After setting alarm :-
-
-![image](https://user-images.githubusercontent.com/62291769/199785952-0040a58f-55e0-4b96-bdce-f02676ca5d2a.png)
-
-🔴 If user returns to previous closed page :-
-
-![image](https://user-images.githubusercontent.com/62291769/199786054-7af178f0-c78b-49cb-889a-b3a4853023ca.png)
-
----
 
 🚦Versions:-
 
@@ -48,9 +32,4 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 
 ---
 
-🙎 Contact .
 
-    🔗 Author - @Akshay Kumar - akshaykumarsinha0326@gmail.com - +91-7562863220
-
-    ✅ Linkedin ✅ https://www.linkedin.com/in/itsakshaykrs/ ✅
-    ✅ Github   ✅ https://github.com/Akshay0326             ✅
